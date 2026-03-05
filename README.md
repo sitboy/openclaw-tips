@@ -20,7 +20,7 @@
 
 | # | 标题 | 关键词 |
 |---|------|--------|
-| 1 | [同一个 AI，不同平台自动切模型，记忆还共享？](./posts/01-multi-agent-multi-model.md) | 多Agent / 路由 / 共享记忆 |
+| 1 | [同一只小虾，人前正经干活，人后……你懂的](./posts/01-multi-agent-multi-model.md) | 多Agent / 双面人格 / 共享记忆 |
 
 ## 谁适合看
 
